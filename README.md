@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Satish Jadhav
 
-<!--
-**codewithsatish1404/codewithsatish1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Angular | Firebase | TypeScript  
+🎯 2.8+ years of experience in building production-grade web apps  
+🚀 Available for Hire — Actively seeking Angular Frontend Developer roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:**: Angular, TypeScript, JavaScript,Bootstrap, HTML5, SCSS, RxJS , NgRX.  
+- **Backend:** : Firebase (Realtime DB, Auth, Storage) , Nodejs , ExpressJs.
+- **Database:**: Firebase, Mysql
+- **Tools:** Git, Postman, VS Code,
+
+
+
+## 🌟 Featured Projects
+---
+---
+---
+
+## 📫 Let's Connect
+- 💼 LinkedIn : https://www.linkedin.com/in/satish-jadhav-4105691a1/
+- 📧 Gmail :    satishjadhav3784@gmail.com
+- 🔗 Portfolio : (coming soon)]
+---
+
+_“Code. Build. Learn. Repeat.”_
+
