@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Satish Jadhav
 
 💻 Frontend Developer | Angular | Firebase | TypeScript  
-🎯 2.8+ years of experience in building production-grade web apps  
+🎯 3+ years of experience in building production-grade web apps  
 🚀 Available for Hire — Actively seeking Angular Frontend Developer roles
 
 ---
